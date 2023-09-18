@@ -1,0 +1,558 @@
+
+@media (max-width:1024px) {
+   
+    .hero-container{
+        width: 76%;
+        height: 108vh;
+    }
+
+    .text-circle{
+        height: 89vh;
+    }
+
+    .text-area {
+        height: 54vh;
+    }
+
+    .top-text h1 {
+        font-size: 51px;
+    }
+
+    .top-text p {
+        font-size: 17px;
+    }
+
+
+
+    .bottom-images-container{
+        text-align: center;
+        justify-content: center;
+    }
+    
+    
+    .bottom-images {
+        width: 48%;
+        margin: 5px;
+    }
+
+    .bottom-images p {
+        line-height: 20px;
+        font-size: 16px;
+    }
+
+    .orange{
+        width: 16%;
+    }
+
+    .top {
+        height: 23vh;
+    }
+
+    .top p {
+        font-size: 19px;
+        line-height: 32px;
+    }
+
+    .center-boxes {
+        width: 48%;
+    }
+
+    .bottom p{
+        font-size: 19px;
+        line-height: 32px;
+    }
+
+    .bottom {
+        height: 23vh;
+    }
+
+    .podcast p {
+        font-size: 17px;
+    }
+
+    .left-top h3 {
+        font-size: 51px;
+    }
+
+    .left-top p {
+        font-size: 20px;
+    }
+
+    .left-bottom p {
+        font-size: 16px;
+        line-height: 34px;
+    }
+
+    .right-circle {
+        width: 93%;
+        height: 70vh;
+    }
+
+    .right-circle-image {
+        width: 87%;
+        height: 59vh;
+    }
+
+    .personality-image-circle {
+        width: 93%;
+        height: 70vh;
+    }
+
+    .personality-text .up p {
+        font-size: 22px;
+    }
+
+    .personality-text .down p {
+        font-size: 21px;
+        line-height: 46px;
+    }
+}
+
+
+
+
+
+@media (max-width:780px) {
+    .hero-container{
+        width: 77%;
+        height: 124vh;
+    }
+
+    .text-circle p{
+        font-size: 17px;
+    }
+
+    .text-circle h1 {
+        font-size: 56px;
+    }
+
+    .text-area p {
+        font-size: 60px;
+    }
+
+    .text-area {
+        height: 58vh;
+    }
+
+    .section-p{
+        font-size: 25px;
+    }
+
+    input {
+        height: 15vh;
+        width: 50%;
+    }
+
+    ::placeholder{
+        font-size: 25px;
+        padding-top: 20px;
+    }
+
+   form button{
+        font-size: 25px;
+        height:15vh;
+        width: 27%;
+    }
+
+
+    .top-text p {
+        font-size: 13px;
+        line-height: 17px;
+    }
+
+    .bottom-images-container{
+        text-align: center;
+        justify-content: center;
+    }
+    
+    
+    .bottom-images {
+        width: 48%;
+        margin: 5px;
+    }
+
+    .bottom-images p {
+        line-height: 20px;
+        font-size: 16px;
+    }
+
+    .fourth-section-text{
+        width: 77%;
+    }
+
+  
+    .fourth-section-text p{
+        font-size: 33px;
+    }
+
+    .top p {
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    
+    .center-boxes {
+        width: 100%;
+        height: 100vh;
+    }
+
+    .center-boxes-circle {
+        height: 77vh;
+    }
+
+    .bottom {
+        height: 28vh;
+    }
+
+    .bottom p {
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    .podcast {
+        width: 100%;
+    }
+
+    .left-top h3 {
+        font-size: 37px;
+    }
+
+    .left-top p {
+        font-size: 13px;
+        line-height: 26px;
+        margin-bottom: 26px;
+    }
+
+    .left-bottom {
+        height: 36vh;
+    }
+
+    .left-bottom p {
+        font-size: 12px;
+        line-height: 25px;
+    }
+
+    .right-circle-image {
+        height: 56vh;
+    }
+}  
+
+
+/* SUB BREAK-POINT (TABLET SCREEN) */
+
+@media (max-width:680px){
+    .hero-container{
+        width: 77%;
+        height: 114vh;
+    }
+
+    .text-circle{
+        width: 85%;
+        height: 91vh;
+    }
+}
+
+/* LARGE MOBILE SCREEN */
+
+@media(max-width:430px) {
+    .hero-section {
+        height: 121vh;
+    }
+
+    .hero-container {
+        width: 84%;
+        height: 103vh;
+    }
+
+    .text-circle {
+        width: 83%;
+        height: 74vh;
+    }
+
+    .text-circle h1 {
+        font-size: 30px;
+    }
+
+    .text-circle p {
+        font-size: 10px;
+        line-height: 15px;
+    }
+
+    .text-area {
+        height: 45vh;
+    }
+
+    .text-area p {
+        font-size: 36px;
+    }
+
+    .second-p {
+        font-size: 14px;
+        margin: 17px 0px;
+    }
+
+
+    input {
+        height: 11vh;
+        width: 49%;
+    }
+
+    ::placeholder{
+        font-size: 10px;
+    }
+
+   form button{
+        font-size: 10px;
+        height:11vh;
+        width: 27%;
+    }
+
+    .top-text p {
+        font-size: 7px;
+        line-height: 9px;
+    }
+
+    .bottom-images {
+        width: 100%;
+    }
+
+    .circle-images {
+        width: 57%;
+    }
+
+    .bottom-images p {
+        line-height: 13px;
+        font-size: 10px;
+    }
+
+
+
+    .fourth-section-text p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .orange {
+        height: 14vh;
+    }
+
+    .top {
+        width: 100%;
+    }
+
+    .top p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .center-boxes-circle {
+        width: 67%;
+    }
+
+    .bottom {
+        width: 100%;
+    }
+
+    .bottom p {
+        font-size: 12px;
+        line-height: 18px;
+        height: 28vh;
+    }
+
+    .podcast h1 {
+        font-size: 85px;
+    }
+
+    .podcast p {
+        font-size: 12px;
+        margin-top: 13px;
+        line-height: 18px;
+    }
+
+    .left {
+        width: 109%;
+        height: 100vh;
+        border: 1px solid red;
+    }
+
+    .left-top h3 {
+        font-size: 32px;
+        margin-bottom: 9px;
+    }
+
+    .left-top p {
+        font-size: 16px;
+        line-height: 21px;
+        margin-bottom: 19px;
+    }
+
+    .btn button {
+        padding: 11px 30px;
+        font-size: 15px;
+    }
+
+    
+    .bottom p {
+        font-size: 12px;
+        line-height: 25px;
+    }
+
+    .right {
+        width: 100%;
+    }
+
+    .right-circle {
+        width: 86%;
+        height: 90vh;
+    }
+
+    .right-circle-image {
+        width: 88%;
+        height: 73vh;
+    }
+}
+
+
+/* MEDIUM MOBILE SCREEN */
+
+@media(max-width:380px){
+
+    .hero-section {
+        height: 100vh;
+    }
+
+    .hero-container {
+        width: 80%;
+        height: 90vh;
+    }
+
+    .text-circle {
+        height: 65vh;
+    }
+
+    .text-circle h1 {
+        font-size: 23px;
+    }
+
+    .text-circle p {
+        font-size: 7px;
+        line-height: 14px;
+    }
+
+
+
+    .top-text {
+        width: 100%;
+        
+    }
+
+
+    .top-text h1 {
+        font-size: 29px;
+    }
+
+    .top-text p {
+        font-size: 7px;
+        line-height: 8px;
+    }
+    .bottom-images {
+        width: 100%;
+        margin: 2px;
+    }
+
+    .circle-images {
+        width: 65%;
+    }
+
+
+    .orange {
+        height: 12vh;
+    }
+
+    .fourth-section-text p {
+        font-size: 14px;
+    }
+
+    .top p {
+        font-size: 11px;
+    }
+
+    .center-boxes-circle {
+        width: 75%;
+    }
+
+    .bottom p {
+        font-size: 11px;
+        line-height: 19px;
+    }
+
+    .left-top h3 {
+        font-size: 37px;
+        margin-bottom: 11px;
+    }
+
+    .left-top p {
+        font-size: 16px;
+        margin-bottom: 19px;
+    }
+
+    .left-bottom p {
+        line-height: 22px;
+    }
+
+    .right-circle {
+        width: 90%;
+    }
+}
+
+
+
+/*SMALL MOBILE SCREEN */
+
+@media(max-width:380px){
+    .hero-container {
+        width: 87%;
+        height: 85vh;
+    }
+
+    .text-circle {
+        height: 61vh;
+    }
+
+    .text-circle h1 {
+        font-size: 21px;
+    }
+
+    .second-section{
+        height: 84vh;
+    }
+
+    .text-area {
+        height: 37vh;
+    }
+
+    .second-p {
+        font-size: 11px;
+    }
+
+    .text-area p {
+        font-size: 29px;
+    }
+
+    .top-text p {
+        font-size: 6px;
+    }
+
+    .circle-images {
+        width: 72%;
+    }
+
+
+    .orange {
+        height: 11vh;
+    }
+
+    .fourth-section-text p {
+        font-size: 12px;
+    }
+}
