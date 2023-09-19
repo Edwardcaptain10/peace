@@ -481,18 +481,12 @@ input{
     justify-content: center;
 }
 
-
-
-
-
-
 .personality{
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
     height: fit-content;
-    border: 1px solid red;
     margin-top: 20px;
     background-color: #111111;
 }
@@ -503,7 +497,6 @@ input{
     justify-content: center;
     width: 90%;
     height: fit-content;
-    border: 1px solid red;
 }
 
 .personality-image{
@@ -512,7 +505,6 @@ input{
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid red;
 }
 
 
@@ -533,14 +525,12 @@ input{
     height: 100vh;
     display: flex;
     flex-direction: column;
-    border: 1px solid red;
 }
 
 .personality-text .up{
     width: 100%;
     color: #fff;
     height: 40vh;
-    border: 1px solid red;
 }
 
 .personality-text .up h2{
@@ -558,7 +548,6 @@ input{
 .personality-text .down{
     width: 100%;
     height: 60vh;
-    border: 1px solid red;
 }
 
 .personality-text .down p{
@@ -566,3 +555,100 @@ input{
  line-height: 40px;
  color: #fff;
 }
+
+.group{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: fit-content;
+    margin-top: 20px;
+    border: 1px solid red;
+}
+
+.group-container{
+    width: 100%;
+    height: fit-content;
+    border: 1px solid red;
+}
+
+.image-path{
+    width: 100%;
+    height: 75vh;
+    background-image:url(./respond-images/group.jpg) ;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.text-path{
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.text-path h2{
+   font-size: 50px;
+   text-align: center;
+}
+
+.text-path p{
+    margin-top: 30px;
+   font-size: 25px;
+    line-height: 35px;
+   text-align: center;
+}
+
+.question{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    background-color: orangered;
+    flex-direction: column;
+    text-align: center;
+}
+
+.question h2{
+    font-size: 60px;
+}
+
+
+.question button{
+    margin-top: 40px;
+    font-size:30px;
+    outline: none;
+    border: none;
+    padding: 28px 70px;
+}
+
+.question button:hover{
+   background-color: orangered;
+}
+
+
+
+/* .last{
+    width: 100%;
+    margin-top: 30px;
+    height: fit-content;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 1px solid red;
+}
+
+
+.blast-container{
+    width: 90%;
+    border: 1px solid red;
+    height: fit-content;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+} */
+
+
