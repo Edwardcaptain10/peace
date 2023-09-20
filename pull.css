@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.will{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.will-container{
+    background-color: rgb(212, 210, 210);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 100vh;
+}
+
+.left{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100vh;
+}
+
+
+.right{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100vh;
+}
+
+.card{
+    margin-left: 20px;
+    width: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+}
+
+.flex{
+    background-color: rgba(18, 73, 73, 0.941);
+}
+
+.mill{
+    background-color: rgba(69, 11, 11, 0.956);
+}
+
+
+.second{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.second-container{
+    display: flex;
+    background-color: rgb(252, 245, 236);
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.second-left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 100vh;
+}
+
+.second-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 100vh;
+}
+
+.circle{
+    display: flex;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    height: 80vh;
+    border-radius: 50%;
+}
+
+
+.semi-circle{
+    display: flex;
+    background-color: rgb(188, 185, 185);
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    height: 60vh;
+    border-radius: 50%;
+}
+
+.medium-circle{
+    display: flex;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+    width: 65%;
+    height: 40vh;
+    border-radius: 50%;
+    }
+
+.small-circle{
+    display: flex;
+    background-color: rgb(188, 185, 185);
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 20vh;
+    border-radius: 50%;
+    }

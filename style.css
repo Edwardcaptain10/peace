@@ -563,13 +563,11 @@ input{
     width: 100%;
     height: fit-content;
     margin-top: 20px;
-    border: 1px solid red;
 }
 
 .group-container{
     width: 100%;
     height: fit-content;
-    border: 1px solid red;
 }
 
 .image-path{
